@@ -5,7 +5,7 @@ These projects where designed and tested on Lemans-university servers which are 
 # Train/Test Data
 two German emotional corpuses 
 1. EMO-DB www.emodb.bilderbar.info/docu/
-2. AIBO wwww.cs.fau.de/de/mitarbeiter/steidl-stefan/fau-aibo-emotion-corpus
+2. AIBO www.cs.fau.de/de/mitarbeiter/steidl-stefan/fau-aibo-emotion-corpus
 # Classes:
 1. Anger (angry, touchy, et reprimanding)
 2. Emphatic
