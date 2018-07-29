@@ -5,7 +5,7 @@ These projects where designed and tested on Lemans-university servers which are 
 # Train/Test Data
 two German emotional corpuses 
 [GitHub](http://github.com)
-1. EMO-DB www.emodb.bilderbar.info/docu/
+1. [EMO-DB](www.emodb.bilderbar.info/docu/)
 2. [AIBO](http://www5.cs.fau.de/de/mitarbeiter/steidl-stefan/fau-aibo-emotion-corpus/)
 # Classes:
 1. Anger (angry, touchy, et reprimanding)
@@ -18,6 +18,6 @@ two German emotional corpuses
 ## Author 
 Hichem MAIZA
 ## Acknoldgements:
-- Thank you opensmile for the great mfcc extraction script www.audeering.com/technology/opensmile/
-- Thank you PD Dr.-Ing. habil. Stefan Steidl for the great aibo corpus  www.cs.fau.de/de/mitarbeiter/steidl-stefan/fau-aibo-emotion-corpus
-- Thank you Felix Burkhardt, Miriam Kienast, Astrid Paeschke and Benjamin Weiss for the great Emo-DB corpus. www.emodb.bilderbar.info/docu/
+- Thank you opensmile for the great [mfcc extraction script](www.audeering.com/technology/opensmile/)
+- Thank you PD Dr.-Ing. habil. Stefan Steidl for the great [aibo corpus](www.cs.fau.de/de/mitarbeiter/steidl-stefan/fau-aibo-emotion-corpus)
+- Thank you Felix Burkhardt, Miriam Kienast, Astrid Paeschke and Benjamin Weiss for the great [Emo-DB corpus](www.emodb.bilderbar.info/docu/)
