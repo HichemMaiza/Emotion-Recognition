@@ -18,5 +18,5 @@ two German emotional corpuses
 Hichem MAIZA
 ## Acknoldgements:
 - Thank you opensmile for the great mfcc extraction script www.audeering.com/technology/opensmile/
-- Thank you PD Dr.-Ing. habil. Stefan Steidl for the great aibo corpus  wwww.cs.fau.de/de/mitarbeiter/steidl-stefan/fau-aibo-emotion-corpus
+- Thank you PD Dr.-Ing. habil. Stefan Steidl for the great aibo corpus  www.cs.fau.de/de/mitarbeiter/steidl-stefan/fau-aibo-emotion-corpus
 - Thank you Felix Burkhardt, Miriam Kienast, Astrid Paeschke and Benjamin Weiss for the great Emo-DB corpus. www.emodb.bilderbar.info/docu/
