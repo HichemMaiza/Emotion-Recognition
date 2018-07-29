@@ -4,7 +4,6 @@ The main objective of this project is to predict emotion from audio
 These projects where designed and tested on Lemans-university servers which are equiped with GPU graphic cards.   
 # Train/Test Data
 two German emotional corpuses 
-[GitHub](http://github.com)
 1. [EMO-DB](www.emodb.bilderbar.info/docu/)
 2. [AIBO](http://www5.cs.fau.de/de/mitarbeiter/steidl-stefan/fau-aibo-emotion-corpus/)
 # Classes:
